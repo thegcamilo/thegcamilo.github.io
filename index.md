@@ -4,7 +4,7 @@
 
 #### Publications
 
-#### Medium Posts
+#### Posts
 
 #### Work Experiences
 
