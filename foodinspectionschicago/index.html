@@ -22,23 +22,20 @@
 						<div class="content">
 							<h1>Title</h1>
 							<p class="major">An ADA project by <b>Gabriel Lima</b>, <b>Kenyu ...</b>, <b>Murat ...</b>, and <b>Niko ...</b>.</p>
-							<ul class="actions stacked">
-								<li><a href="#first" class="button big wide smooth-scroll-middle">Get Started</a></li>
-							</ul>
 						</div>
 						<div class="image">
-							<img src="images/banner.jpg" alt="" />
+							<img src="images/chicago.jpg" alt="" />
 						</div>
 					</section>
 
 				<!-- right -->
 					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="first">
 						<div class="content">
-							<h2>Racism in the US</h2>
-							<p>Racism is arguably institutionalized in American society. Result of almost 100 years of slavery and consequent lack of opportunity for the black population to get back on their feet has created various barriers to this certain group of people. This situation has led to the exclusion of the black population from health, educational, social, and economic resources. Data suggests that black Americans are more likely to suffer from mental illness, can live up to 20 years less than an average white American, and do not have the same higher level education opportunities.</p>
+							<h2>Racism in the United States</h2>
+							<p>Racism is arguably institutionalized in American society. Result of almost 100 years of slavery and consequent lack of opportunity for the black population to get back on their feet has created various barriers to this certain group of people. This situation has led to the exclusion of the black population from health, educational, social, and economic resources. Data suggests that <a href="https://www.mhanational.org/issues/black-african-american-communities-and-mental-health">black Americans are more likely to suffer from mental illness</a>, <a href="https://www.theatlantic.com/magazine/archive/2018/07/being-black-in-america-can-be-hazardous-to-your-health/561740/">can live up to 20 years less than an average white American</a>, and <a href="https://nces.ed.gov/pubs2019/2019038.pdf">do not have the same higher level education opportunities</a>.</p>
 						</div>
 						<div class="image">
-							<img src="images/spotlight01.jpg" alt="" />
+							<img src="images/racism.jpg" alt="" />
 						</div>
 					</section>
 
@@ -46,10 +43,10 @@
 					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
 						<div class="content">
 							<h2>Inequality Food Distribution</h2>
-							<p>Another important problem in the current worldwide situation is the precarious food distribution across the world. Diabetes has been hit minorities the hardest and many layers of society worldwide suffer of poverty. However, there has not been any analysis on the quality of food provided to different social and racial groups in a certain location. Following the trend of minorities receiving lower quality services and products, we hypothesize that the same would follow in terms of the quality of the food available to the black and poorest population. Therefore, we ask the following research question:</p>
+							<p>Another important problem in the current worldwide situation is the precarious food distribution across the world. For instance, <a href="https://www.ucsusa.org/resources/devastating-consequences-unequal-food-access#ucs-report-downloads">diabetes has hit minorities the hardest</a> and <a href="https://www.cnbc.com/id/100893540">many layers of society worldwide suffer of poverty</a>. However, there has not been any analysis on the quality of food provided to different social and racial groups in a certain location. Following the trend of minorities receiving lower quality services and products, we hypothesize that the same would follow in terms of the quality of the food available to the black and poorest population. Therefore, we ask the following research question:</p>
 						</div>
 						<div class="image">
-							<img src="images/spotlight02.jpg" alt="" />
+							<img src="images/food.jpg" alt="" />
 						</div>
 					</section>
 
@@ -62,7 +59,7 @@
 					<section class="wrapper style1 align-center">
 						<div class="inner">
 							<h2>Methodology</h2>
-							<p>In order to answer our question, we utilized a dataset of food inspections in the city of Chicago [REF]. We use the results of the inspections as a proxy for a measure of food quality in a certain location. If a certain neighborhood has a higher failure rate, we can infer that the food available there is of lower quality. As a form of measuring economic and racial variables in the city of Chicago, we also obtained information about the racial distribution across neighborhoods [REF], the city of Chicago’s measurement of social and economic hardship [REF], and data regarding crimes committed in the city. With these datasets, we divide our main research question in three different sub-questions:</p>
+							<p>In order to answer our question, we utilized a <a href="https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5">dataset of food inspections in the city of Chicago</a>. We use the results of the inspections as a proxy for a measure of food quality in a certain location. If a certain neighborhood has a higher failure rate, we can infer that the food available there is of lower quality. As a form of measuring economic and racial variables in the city of Chicago, we also obtained <a href="http://www.actforchildren.org/wp-content/uploads/2018/01/Census-Data-by-Chicago-Community-Area-2017.pdf">information about the racial distribution across neighborhoods</a>, <a href="https://data.cityofchicago.org/Health-Human-Services/hardship-index/792q-4jtu">the city of Chicago’s measurement of social and economic hardship </a>, and <a href="https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2">data regarding crimes committed in the city</a>. With these datasets, we divide our main research question in three different sub-questions:</p>
 						</div>
 					</section>
 
@@ -76,17 +73,27 @@
 					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
 						<div class="content">
 							<h2>Food Inspections</h2>
-							<p>Explain dataset inspections & visualize it in a map. Create a map that shows all of our 6 variables.</p>
+							<p>The dataset provided by the city government identifies in which restaurant the inspection was conducted, the final result, violations, risk, location, and date. With this information, we calculate 6 measures of food quality and food inspections for each neighborhood. 
+								<ol>
+									<li>Inspections per capita: Number of inspections conducted in a certain neighborhood divided by the neighborhood's population.</li>
+									<li>Rate of failure: Percentage of inspections that received "Fail" in a certain neighborhood.</li>
+									<li>Average risk: The average risk given by inspectors of all establishments in a certain neighborhood.</li>
+									<li>Violations per capita: Average number of food violations per citizens of a neighborhood.</li>
+									<li>Inspections per establishment: Average number of inspections divided by the number of establishments of a neighborhood.</li>
+									<li>Violations per establishment: Average number of food violations divided by the number of establishments of a neighborhood.</li>
+								</ol>
+								We aimed to analyze whether there is some correlation between inspection results and the composition of a neighborhood in terms of race and economy. Note that 1) and 5) do not measure food quality, but how often inspections are conducted. We also aim to understand whether there is a bias on where inspections are conducted.
+							</p>
 						</div>
 						<div class="image">
-							Put map here
+							Create a map that shows all of our 6 variables.
 						</div>
 					</section>
 
 					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
 						<div class="content">
 							<h2>Census Data</h2>
-							<p>Explain census dataset. Just put a map that shows the color distribution and population.</p>
+							<p>Among all the variables obtained in the US nationwide census, we only used two factors for our project. First, we obtained each neighborhood's population so we can normalize our measurements according to the population size of a neighborhood, and its racial distribution, as a measure of how many citizens belong to racial minorities.</p>
 						</div>
 						<div class="image">
 							Put map here
@@ -115,7 +122,7 @@
 					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
 						<div class="content">
 							<h2>Crime Data</h2>
-							<p>Explain crime dataset → explain why we removed some. Put a map with the criminality of each neighborhood.</p>
+							<p>This dataset was also provided by Chicago's government. It reflects reported incidents of crime of various types. We have chosen to remove crimes that do not directly correlate with the level of violence of a neighborhood. For instance, we remove non-violent crimes and records of car violations as the vehicle might not belong to that certain neighborhood where the crime was reported.</p>
 						</div>
 						<div class="image">
 							Put map here
@@ -126,7 +133,7 @@
 						<div class="inner">
 							<h2>Results</h2>
 							<div>
-								Choose the variables you would like to plot and we will calculate the correlation and significance level.
+								Choose the variables you would like to present in the scatter plot and we will calculate the correlation and significance level.
 							</div>
 							<div>
 								Put interactive graph here
@@ -137,7 +144,7 @@
 					<section class="wrapper style1 align-center">
 						<div class="inner">
 							<h2>Conclusion</h2>
-							<p>Conclusion</p>	
+							<p>Conclusion divided by research question</p>	
 						</div>
 					</section>
 
