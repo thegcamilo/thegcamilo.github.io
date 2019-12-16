@@ -11,6 +11,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<script src="https://cdn.plot.ly/plotly-latest.min.js"></script> 
 	</head>
 	<body class="is-preload">
 
@@ -89,7 +90,11 @@
 							</p>
 						</div>
 						<div class="image">
-							Create a map that shows all of our 6 variables.
+							<!--<iframe src ="maps/name.html" height="100%" width="100%">-->
+								<object data="maps/inspections_capita.html" height="100%" width="100%"> 
+									Your browser doesn’t support the object tag. 
+								</object>
+
 						</div>
 					</section>
 
@@ -118,7 +123,9 @@
 						We used the economic hardship index as a measurement of economic conditions of each community area in Chicago. A higher index indicates poorer conditions.</p>
 						</div>
 						<div class="image">
-							Put map here
+							<object data="maps/hardship.html" height="100%" width="100%"> 
+								Your browser doesn’t support the object tag. 
+							</object>
 						</div>
 					</section>
 
@@ -128,7 +135,9 @@
 							<p>This dataset was also provided by Chicago's government. It reflects reported incidents of crime of various types. We have chosen to remove crimes that do not directly correlate with the level of violence of a neighborhood. For instance, we remove non-violent crimes and records of car violations as the vehicle might not belong to that certain neighborhood where the crime was reported.</p>
 						</div>
 						<div class="image">
-							Put map here
+							<object data="maps/crime.html" height="100%" width="100%"> 
+								Your browser doesn’t support the object tag. 
+							</object>
 						</div>
 					</section>
 
@@ -139,7 +148,14 @@
 								Choose the variables you would like to present in the scatter plot and we will calculate the correlation and significance level.
 							</div>
 							<div>
-								Put interactive graph here
+								<object data="maps/scatter_plot.html" height="500px" width="100%"> 
+									Your browser doesn’t support the object tag. 
+								</object>
+							</div>
+							<div>
+								<object data="maps/hardship_scatter_plots.html" height="500px" width="100%"> 
+									Your browser doesn’t support the object tag. 
+								</object>
 							</div>
 						</div>
 					</section>
@@ -171,7 +187,7 @@
 					</section>
 
 					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
-						<div class="content"id="rq2">
+						<div class="content" id="rq2">
 							<h5><i>RQ2: Does economic and social hardship correlate with food quality in a certain neighborhood?</i></h5>
 							<h3>
 								There is no significant correlation between economic hardship and food quality according to our results. Even though citizens in neighborhoods with high hardship indexes might not be able to acquire similar quantities of food, they have food of similar quality at their disposal.

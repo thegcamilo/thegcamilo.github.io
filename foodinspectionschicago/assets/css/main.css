@@ -2632,6 +2632,7 @@ input, select, textarea {
 		border-radius: 4px;
 		display: inline-block;
 		position: relative;
+		background-color: #ffffff;
 	}
 
 		.image img {
@@ -4858,6 +4859,7 @@ input, select, textarea {
 		position: relative;
 		overflow-x: hidden;
 		text-align: left;
+		min-height: 500px;
 	}
 
 		.spotlight.style1 .content {
