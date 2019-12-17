@@ -91,7 +91,7 @@
 						</div>
 						<div class="image">
 							<!--<iframe src ="maps/name.html" height="100%" width="100%">-->
-								<object data="maps/inspections_capita.html" height="100%" width="100%"> 
+								<object data="maps/food_inspections_maps.html" height="100%" width="100%"> 
 									Your browser doesn’t support the object tag. 
 								</object>
 
@@ -104,7 +104,9 @@
 							<p>Among all the variables obtained in the US nationwide census, we only used two factors for our project. First, we obtained each neighborhood's population so we can normalize our measurements according to the population size of a neighborhood, and its racial distribution, as a measure of how many citizens belong to racial minorities.</p>
 						</div>
 						<div class="image">
-							Put map here
+								<object data="maps/census.html" height="100%" width="100%"> 
+									Your browser doesn’t support the object tag. 
+								</object>
 						</div>
 					</section>
 
@@ -120,7 +122,7 @@
 									<li>Crowded housing (housing units with more than one person per room)</li>
 									<li>Dependency (population under 18 or over 64 years of age)</li>
 								</ul>
-						We used the economic hardship index as a measurement of economic conditions of each community area in Chicago. A higher index indicates poorer conditions.</p>
+						We used the economic hardship index as a measurement of economic conditions of each community area in Chicago. A higher index indicates poorer conditions. We scaled the hardship index to a range between 0 and 1 for presentation purposes.</p>
 						</div>
 						<div class="image">
 							<object data="maps/hardship.html" height="100%" width="100%"> 
@@ -132,7 +134,7 @@
 					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
 						<div class="content">
 							<h2>Crime Data</h2>
-							<p>This dataset was also provided by Chicago's government. It reflects reported incidents of crime of various types. We have chosen to remove crimes that do not directly correlate with the level of violence of a neighborhood. For instance, we remove non-violent crimes and records of car violations as the vehicle might not belong to that certain neighborhood where the crime was reported.</p>
+							<p>This dataset was also provided by Chicago's government. It reflects reported incidents of crime of various types. We have chosen to remove crimes that do not directly correlate with the level of violence of a neighborhood. For instance, we remove non-violent crimes and records of car violations as the vehicle might not belong to that certain neighborhood where the crime was reported. We present the number of crimes per capita in the map on the right.</p>
 						</div>
 						<div class="image">
 							<object data="maps/crime.html" height="100%" width="100%"> 
@@ -145,15 +147,20 @@
 						<div class="inner">
 							<h2>Results</h2>
 							<div>
-								Choose the variables you would like to present in the scatter plot and we will calculate the correlation and significance level.
+								Choose the food inspection index you would like to present in the scatter plots and we will calculate the correlation and significance level.
 							</div>
 							<div>
-								<object data="maps/scatter_plot.html" height="500px" width="100%"> 
+								<object data="maps/black_scatter_plots.html" height="500px" width="100%"> 
 									Your browser doesn’t support the object tag. 
 								</object>
 							</div>
 							<div>
 								<object data="maps/hardship_scatter_plots.html" height="500px" width="100%"> 
+									Your browser doesn’t support the object tag. 
+								</object>
+							</div>
+							<div>
+								<object data="maps/crimes_scatter_plots.html" height="500px" width="100%"> 
 									Your browser doesn’t support the object tag. 
 								</object>
 							</div>
