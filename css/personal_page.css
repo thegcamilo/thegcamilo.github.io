@@ -1,4 +1,4 @@
-.container {
+.container-fluid {
     margin: auto;
     margin-top: 15px;
     font-family: 'Lato';
@@ -26,7 +26,7 @@
 
 .profile_pic {
     border-radius: 500px;
-    width: 75%;
+    width: 50%;
 }
 
 .normal_text {  
