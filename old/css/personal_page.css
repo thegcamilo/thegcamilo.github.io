@@ -1,0 +1,88 @@
+.container-fluid {
+    margin: auto;
+    margin-top: 15px;
+    font-family: 'Lato';
+}
+
+.font {
+    margin-top: 15px;
+    font-family: 'Lato';
+}
+
+.header {
+    margin: auto;
+}
+
+.left_photo {
+    margin: auto;
+    text-align: center;
+}
+
+.right_info {
+    margin: auto;
+    text-align: justify;
+}
+
+.section_list {
+    list-style-type: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.profile_pic {
+    border-radius: 500px;
+    width: 50%;
+}
+
+.normal_text {  
+    text-align: justify;
+    font-size: 17px;
+}
+
+.title {
+    font-size: 24px;
+    color: #173F5f;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.pub_name {
+    font-size: 16px;
+    color: #173F5f;
+    font-weight: bold;
+}
+
+.bold_text {
+    color: #173F5f;
+    font-weight: bold;
+}
+
+.link_color, .link_color:hover {
+    color: #173F5f;
+}
+
+.line {
+    background-image: linear-gradient(90deg, white, #173F5f, white);
+
+}
+
+.button, .button:focus, .button:active {
+    background-color: white;
+    border-color: #173F5f;
+    color: #173F5f;
+    border-radius: 5px;
+    outline: 0;
+}
+
+button:hover, .button:active {
+    background-color: lightgray;
+    border-color: #173F5f;
+    color: #173F5f;
+    border-radius: 5px;
+    outline: 0;
+}
+
+.read_more {
+    color: #173F5f;
+    text-decoration: underline;
+}
