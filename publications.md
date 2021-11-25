@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Gabriel Lima
-subtitle: About me
+subtitle: Publications
 ---
 
-## Conference Papers
+### Conference Papers
 
 1. **Gabriel  Lima**, Jiyoung Han, Meeyoung Cha. Others Are to Blame: A Multi-Faceted View on Whom People Consider Responsible For Online Misinformation. *Proceedings of the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW).* 2022.
 2. **Gabriel  Lima**, Nina Grgić-Hlača, Meeyoung Cha. Human Perceptions on Moral Responsibility of AI: A Case Study in AI-Assisted Bail Decision-Making. *Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems.* 2021. 
@@ -17,7 +17,7 @@ subtitle: About me
 6. **Gabriel Lima**, JinYeong Bak. Speech Emotion Classification using Raw Audio Input and Transcriptions. *Proceedings of the 2018 International Conference on Signal Processing and Machine Learning.* 2018.
 	[(Paper)](https://doi.org/10.1145/3297067.3297089)
 
-## Journal Papers
+### Journal Papers
 
 1. **Gabriel Lima**, Meeyoung Cha, Chihyung Jeon, Kyung Sin Park. The Conflict Between People's Urge to Punish AI and Legal Systems. *Frontiers in Robotics and AI.* 2021.
 	[(Paper)](https://doi.org/10.3389/frobt.2021.756242)
@@ -27,7 +27,7 @@ subtitle: About me
 4. **Gabriel Lima**, Meeyoung Cha, Chiyoung Cha, Hyeyoung Hwang. COVID-19 Vaccine Acceptance in the US and UK in the Early Phase of the Pandemic: AI-Generated Vaccines Hesitancy for Minors, and the Role of Governments. *Journal of the Korean Data Analysis Society.* 2021. [(Paper)](http://doi.org/10.37727/jkdas.2021.23.3.1043)
 
 
-## Workshop Papers
+### Workshop Papers
 
 1. **Gabriel Lima**, Meeyoung Cha. Descriptive AI Ethics: Collecting and Understanding the Public Opinion. *Ethics in Design Workshop at the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW).* 2020. [(Paper)](https://arxiv.org/abs/2101.05957)
 2. **Gabriel Lima**, Meeyoung Cha. Responsible AI and Its Stakeholders. *Fair and Responsible AI Workshop at 2020 CHI Conference on Human Factors in Computing Systems.* 2020. [(Paper)](https://arxiv.org/abs/2004.11434)

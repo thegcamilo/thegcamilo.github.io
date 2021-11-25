@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gabriel Lima
-subtitle: About me
+subtitle: About Me
 ---
 
 I am a computer scientist interested in understanding people's perception of artificial intelligence (AI) systems and how they will morally and legally affect society. I address these research questions through the lens of moral and legal responsibility, and I investigate the possible conflicts between the regulation and development of machines and the public view of these new technologies. My research aims to study how people perceive the moral agency and patiency of AI systems to embed their opinion in normative research and policymaking. 
@@ -19,3 +19,10 @@ I'm currently pursuing my MS degree at KAIST, being advised by Prof. Meeyoung Ch
 	[(Paper)](https://doi.org/10.3389/frobt.2021.719944)
 5. **Gabriel  Lima**, Changyeon Kim, Seungho Ryu, Chihyung Jeon, Meeyoung Cha. Collecting the Public Perception of AI and Robot Rights. *Proceedings of the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW).* 2020.
 	[(Paper)](https://doi.org/10.1145/3415206)
+
+### Education
+- KAIST (Korea Advanced Institute of Science and Technology)
+	- M.S. in Computer Science, Mar 2021 - Present
+	- B.S. in Computer Science, Feb 2017 - Feb 2021
+- EPFL (École Polytechnique Fédérale de Lausanne)
+	- Exchange Semester, Sep 2019 - Feb 2020
