@@ -14,7 +14,7 @@ author: Gabriel Lima
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  # About Me: "aboutme"
   Publications: "publications"
   CV: "./assets/CV.pdf"
   # Resources:
