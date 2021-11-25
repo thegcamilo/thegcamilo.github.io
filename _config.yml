@@ -15,6 +15,7 @@ author: Gabriel Lima
 
 navbar-links:
   About Me: "aboutme"
+  Publications: "publications"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
