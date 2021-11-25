@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Gabriel Lima
 subtitle: About Me
 ---
@@ -7,7 +7,6 @@ subtitle: About Me
 I am a computer scientist interested in understanding people's perception of artificial intelligence (AI) systems and how they will morally and legally affect society. I address these research questions through the lens of moral and legal responsibility, and I investigate the possible conflicts between the regulation and development of machines and the public view of these new technologies. My research aims to study how people perceive the moral agency and patiency of AI systems to embed their opinion in normative research and policymaking. 
 
 I'm currently pursuing my MS degree at KAIST, being advised by Prof. Meeyoung Cha. I'm also a student researcher at the Data Science Group of the Institute for Basic Science. I obtained my BS degree in Computer Science from KAIST in 2020. 
-<!-- You can access [my CV here](./assets/CV.pdf). -->
 
 ### Selected Publications
 
