@@ -19,6 +19,8 @@ I'm currently pursuing my MS degree at KAIST, being advised by Prof. Meeyoung Ch
 	[(Paper)](https://doi.org/10.3389/frobt.2021.719944)
 5. **Gabriel  Lima**, Changyeon Kim, Seungho Ryu, Chihyung Jeon, Meeyoung Cha. Collecting the Public Perception of AI and Robot Rights. *Proceedings of the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW).* 2020.
 	[(Paper)](https://doi.org/10.1145/3415206)
+	
+	[(See all publications)](./publications)
 
 ### Education
 - KAIST (Korea Advanced Institute of Science and Technology)
