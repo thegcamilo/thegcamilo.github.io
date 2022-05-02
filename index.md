@@ -10,7 +10,10 @@ I'm currently pursuing my MS degree at KAIST, being advised by Prof. Meeyoung Ch
 
 ### Selected Publications
 
+- **Gabriel  Lima**, Nina Grgić-Hlača, Jin Keun Jeong, Meeyoung Cha. {The Conflict Between Explainable and Accountable Decision-Making Algorithms. *Proceedings of the 2022 Conference on Fairness, Accountability, and Transparency (FAccT).* 2022. 
+<!-- 	[(Paper)](https://doi.org/10.1145/3411764.3445260) -->
 - **Gabriel  Lima**, Jiyoung Han, Meeyoung Cha. Others Are to Blame: A Multi-Faceted View on Whom People Consider Responsible For Online Misinformation. *Proceedings of the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW).* 2022.
+	[(Paper)](https://doi.org/10.1145/3512953)
 - **Gabriel  Lima**, Nina Grgić-Hlača, Meeyoung Cha. Human Perceptions on Moral Responsibility of AI: A Case Study in AI-Assisted Bail Decision-Making. *Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems.* 2021. 
 	[(Paper)](https://doi.org/10.1145/3411764.3445260)
 - **Gabriel Lima**, Meeyoung Cha, Chihyung Jeon, Kyung Sin Park. The Conflict Between People's Urge to Punish AI and Legal Systems. *Frontiers in Robotics and AI.* 2021.
