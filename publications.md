@@ -6,7 +6,7 @@ subtitle: Publications
 
 ### Conference Papers
 
-- **Gabriel  Lima**, Nina Grgić-Hlača, Jin Keun Jeong, Meeyoung Cha. {The Conflict Between Explainable and Accountable Decision-Making Algorithms. *Proceedings of the 2022 Conference on Fairness, Accountability, and Transparency (FAccT).* 2022. 
+- **Gabriel  Lima**, Nina Grgić-Hlača, Jin Keun Jeong, Meeyoung Cha. The Conflict Between Explainable and Accountable Decision-Making Algorithms. *Proceedings of the 2022 Conference on Fairness, Accountability, and Transparency (FAccT).* 2022. 
 - **Gabriel  Lima**, Jiyoung Han, Meeyoung Cha. Others Are to Blame: A Multi-Faceted View on Whom People Consider Responsible For Online Misinformation. *Proceedings of the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW).* 2022.
 	[(Paper)](https://doi.org/10.1145/3512953)
 - Assem Zhunis, **Gabriel  Lima**, Hyeonho Song, Jiyoung Han, Meeyoung Cha. Emotion Bubbles: Emotional Compositions of Online Discourse Before and After the COVID-19 Outbreak. *Proceedings of the Web Conference (WebConf).* 2022.
