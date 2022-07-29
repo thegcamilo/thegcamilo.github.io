@@ -38,5 +38,6 @@ subtitle: Publications
 
 ### Workshop Papers
 
+- **Gabriel Lima**, Nina Grgić-Hlača, Meeyoung Cha, Jin Keun Jeong. How XAI May Be Exploited To Create Seemingly Blameworthy AI. *Human-Centered Explainable AI (HCXAI) Workshop at the 2022 CHI Conference on Human Factors in Computing Systems.* 2022. [(Paper)](https://www.dropbox.com/s/a6gddiuezuz0ui1/HCXAI2022_paper_08.pdf?dl=0)
 - **Gabriel Lima**, Meeyoung Cha. Descriptive AI Ethics: Collecting and Understanding the Public Opinion. *Ethics in Design Workshop at the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW).* 2020. [(Paper)](https://arxiv.org/abs/2101.05957)
 - **Gabriel Lima**, Meeyoung Cha. Responsible AI and Its Stakeholders. *Fair and Responsible AI Workshop at 2020 CHI Conference on Human Factors in Computing Systems.* 2020. [(Paper)](https://arxiv.org/abs/2004.11434)
