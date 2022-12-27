@@ -44,5 +44,5 @@ subtitle: Publications
 ### 2019-2018
 
 - **Gabriel  Lima**, Sungkyu Park, Meeyoung Cha. Robots for Class President: Children’s Positions Toward AI Robot Rights. *Proceedings of the Korea Computer Congress (KCC).* 2019.
-- **Gabriel Lima**, JinYeong Bak. Speech Emotion Classification using Raw Audio Input and Transcriptions. *Proceedings of the 2018 International Conference on Signal Processing and Machine Learning.* 2018.
-	[(Paper)](https://doi.org/10.1145/3297067.3297089)
+<!-- - **Gabriel Lima**, JinYeong Bak. Speech Emotion Classification using Raw Audio Input and Transcriptions. *Proceedings of the 2018 International Conference on Signal Processing and Machine Learning.* 2018.
+	[(Paper)](https://doi.org/10.1145/3297067.3297089) -->
