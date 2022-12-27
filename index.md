@@ -4,7 +4,7 @@ title: Gabriel Lima
 subtitle: About Me
 ---
 
-I am a computer scientist interested in understanding laypeople's perceptions of artificial intelligence (AI) systems and their impacts on society. I am interested in investigating how the power that developers have over AI development allows them to shape the public perception of decision-making algorithms. More concretely, I aim to understand how the values embedded in AI research, such as value neutrality and the fallacy of universal benefit, may shape folk perceptions of algorithms deployed in high-risk domains. I intend to investigate how these values may help justify unjust social outcomes caused by decision-making AI.
+I am a computer scientist interested in understanding laypeople's perceptions of artificial intelligence (AI) systems and their impacts on society. More concretely, I aim to investigate how AI developers can shape the public perception of decision-making algorithms. I am interested in how some of the ideologies shaping AI research, e.g., that algorithms are value neutral, can form laypeople's understanding of algorithms deployed in high-risk domains. I intend to study how these ideas can be exploited by developers to escape deserved accountability and help justify unjust social outcomes caused by decision-making AI to the public.
 
 During my BS and MS, I investigated people's perceptions of moral and legal responsibility for algorithmic decision-making. My research focused on capturing whom people consider responsible when AI causes harm to embed laypeople's opinions in normative research and policymaking to mitigate any potential conflicts between folk expectations and AI governance. 
 
