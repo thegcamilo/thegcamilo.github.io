@@ -41,7 +41,7 @@ subtitle: Publications
 - **Gabriel Lima**, Meeyoung Cha. Responsible AI and Its Stakeholders. *Fair and Responsible AI Workshop at 2020 CHI Conference on Human Factors in Computing Systems.* 2020. 
 	[(Paper)](https://arxiv.org/abs/2004.11434)
 
-### 2019-2018
+### 2019
 
 - **Gabriel  Lima**, Sungkyu Park, Meeyoung Cha. Robots for Class President: Children’s Positions Toward AI Robot Rights. *Proceedings of the Korea Computer Congress (KCC).* 2019.
 <!-- - **Gabriel Lima**, JinYeong Bak. Speech Emotion Classification using Raw Audio Input and Transcriptions. *Proceedings of the 2018 International Conference on Signal Processing and Machine Learning.* 2018.
