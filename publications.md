@@ -12,7 +12,7 @@ subtitle: Publications
 	[(Paper)](https://doi.org/10.1145/3512953)
 - Karandeep Singh<sup>\*</sup>, **Gabriel Lima<sup>\*</sup>**, Meeyoung Cha, Chiyoung Cha, Juhi Kulshrestha, Yong-Yeol Ahn, Onur Varol. Misinformation, Believability, and Vaccine Acceptance Over 40 Countries: Takeaways From the Initial Phase of The COVID-19 Infodemic. *PLOS ONE.* 2022. (* denotes co-first authorship)
 	[(Paper)](https://doi.org/10.1371/journal.pone.0263381)
-- Saifeldeen Zihiri<sup>\*</sup>, **Gabriel Lima<sup>\*</sup>**, Jiyoung Han, Meeyoung Cha, Wonjae Lee. QAnon Shifts Into the Mainstream, Remains a Far-Right Ally. *Heliyon.* 2022. (* denotes co-first authorship)
+- Saifeldeen Zihiri<sup>\*</sup>,Nina Grgić-Hlača (MPI-SWS, Germany) **Gabriel Lima<sup>\*</sup>**, Jiyoung Han, Meeyoung Cha, Wonjae Lee. QAnon Shifts Into the Mainstream, Remains a Far-Right Ally. *Heliyon.* 2022. (* denotes co-first authorship)
 	[(Paper)](https://doi.org/10.1016/j.heliyon.2022.e08764)
 - Assem Zhunis, **Gabriel  Lima**, Hyeonho Song, Jiyoung Han, Meeyoung Cha. Emotion Bubbles: Emotional Compositions of Online Discourse Before and After the COVID-19 Outbreak. *Proceedings of the Web Conference (WebConf).* 2022.
 	[(Paper)](https://doi.org/10.1145/3485447.3512132)
