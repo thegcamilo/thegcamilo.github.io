@@ -4,6 +4,13 @@ title: Gabriel Lima
 subtitle: Publications
 ---
 
+### 2023
+
+- **Gabriel  Lima**, Nina Grgić-Hlača, Meeyoung Cha. Blaming Humans and Machines: What Shapes People's Reactions to Algorithmic Harm. *Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems.* 2023.
+	[(To Appear)]()
+- Hyojin Chin, **Gabriel Lima**, Mingi Shin, Assem Zhunis, Chiyoung Cha, Junghoi Choi, Meeyoung Cha. *Journal of Medical Internet Research (JMIR).* 2023.
+	[(Paper)](http://dx.doi.org/10.2196/40922)
+
 ### 2022
 
 - **Gabriel  Lima**, Nina Grgić-Hlača, Jin Keun Jeong, Meeyoung Cha. The Conflict Between Explainable and Accountable Decision-Making Algorithms. *Proceedings of the 2022 Conference on Fairness, Accountability, and Transparency (FAccT).* 2022. 

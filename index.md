@@ -12,6 +12,8 @@ I am currently pursuing my MS degree at KAIST, being advised by Prof. Meeyoung C
 
 ### Selected Publications
 
+- **Gabriel  Lima**, Nina Grgić-Hlača, Meeyoung Cha. Blaming Humans and Machines: What Shapes People's Reactions to Algorithmic Harm. *Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems.* 2023.
+	[(To Appear)]()
 - **Gabriel  Lima**, Nina Grgić-Hlača, Jin Keun Jeong, Meeyoung Cha. The Conflict Between Explainable and Accountable Decision-Making Algorithms. *Proceedings of the 2022 Conference on Fairness, Accountability, and Transparency (FAccT).* 2022. 
 	[(Paper)](https://doi.org/10.1145/3531146.3534628)
 - **Gabriel  Lima**, Jiyoung Han, Meeyoung Cha. Others Are to Blame: Whom People Consider Responsible for Online Misinformation. *Proceedings of the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW).* 2022.
