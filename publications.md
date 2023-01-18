@@ -8,7 +8,7 @@ subtitle: Publications
 
 - **Gabriel  Lima**, Nina Grgić-Hlača, Meeyoung Cha. Blaming Humans and Machines: What Shapes People's Reactions to Algorithmic Harm. *Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems.* 2023.
 	[(To Appear)]()
-- Hyojin Chin, **Gabriel Lima**, Mingi Shin, Assem Zhunis, Chiyoung Cha, Junghoi Choi, Meeyoung Cha. *Journal of Medical Internet Research (JMIR).* 2023.
+- Hyojin Chin, **Gabriel Lima**, Mingi Shin, Assem Zhunis, Chiyoung Cha, Junghoi Choi, Meeyoung Cha. User-Chatbot Conversations During the COVID-19 Pandemic: A Study Based on Topic Modeling and Sentiment Analysis. *Journal of Medical Internet Research (JMIR).* 2023.
 	[(Paper)](http://dx.doi.org/10.2196/40922)
 
 ### 2022
