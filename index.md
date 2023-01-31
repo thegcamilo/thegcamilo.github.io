@@ -8,29 +8,52 @@ I am a computer scientist interested in understanding laypeople's perceptions of
 
 During my BS and MS, I investigated people's perceptions of moral and legal responsibility for algorithmic decision-making. My research focused on capturing whom people consider responsible when AI causes harm to embed laypeople's opinions in normative research and policymaking to mitigate any potential conflicts between folk expectations and AI governance. 
 
-I am currently pursuing my MS degree at KAIST, being advised by Prof. Meeyoung Cha. I am also a student researcher at the Data Science Group of the Institute for Basic Science. I obtained my BS degree in Computer Science from KAIST in 2020. 
+I obtained my MS from KAIST, being advised by Prof. Meeyoung Cha. During my BS and MS, I was also affiliated with the Data Science Group at the Institute for Basic Science (IBS).
 
 ### Selected Publications
 
-- **Gabriel  Lima**, Nina Grgić-Hlača, Meeyoung Cha. Blaming Humans and Machines: What Shapes People's Reactions to Algorithmic Harm. *Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems.* 2023.
+- **Gabriel  Lima**, Nina Grgić-Hlača, Meeyoung Cha
+	\
+	Blaming Humans and Machines: What Shapes People's Reactions to Algorithmic Harm.
+	\
+	*ACM CHI 2023*
+	\
 	[(To Appear)]()
-- **Gabriel  Lima**, Nina Grgić-Hlača, Jin Keun Jeong, Meeyoung Cha. The Conflict Between Explainable and Accountable Decision-Making Algorithms. *Proceedings of the 2022 Conference on Fairness, Accountability, and Transparency (FAccT).* 2022. 
+- **Gabriel  Lima**, Nina Grgić-Hlača, Jin Keun Jeong, Meeyoung Cha
+	\
+	The Conflict Between Explainable and Accountable Decision-Making Algorithms 
+	\
+	*ACM FAccT 2022*
+	\
 	[(Paper)](https://doi.org/10.1145/3531146.3534628)
-- **Gabriel  Lima**, Jiyoung Han, Meeyoung Cha. Others Are to Blame: Whom People Consider Responsible for Online Misinformation. *Proceedings of the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW).* 2022.
+- **Gabriel  Lima**, Jiyoung Han, Meeyoung Cha
+	\
+	Others Are to Blame: Whom People Consider Responsible for Online Misinformation
+	\
+	*ACM CSCW 2022*
+	\
 	[(Paper)](https://doi.org/10.1145/3512953)
-- **Gabriel  Lima**, Nina Grgić-Hlača, Meeyoung Cha. Human Perceptions on Moral Responsibility of AI: A Case Study in AI-Assisted Bail Decision-Making. *Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems.* 2021. 
+- **Gabriel  Lima**, Nina Grgić-Hlača, Meeyoung Cha
+	\
+	Human Perceptions on Moral Responsibility of AI: A Case Study in AI-Assisted Bail Decision-Making 
+	\
+	*ACM CHI 2021* 
+	\
 	[(Paper)](https://doi.org/10.1145/3411764.3445260)
-- **Gabriel Lima**, Meeyoung Cha, Chihyung Jeon, Kyung Sin Park. The Conflict Between People's Urge to Punish AI and Legal Systems. *Frontiers in Robotics and AI.* 2021.
+- **Gabriel Lima**, Meeyoung Cha, Chihyung Jeon, Kyung Sin Park 
+	\
+	The Conflict Between People's Urge to Punish AI and Legal Systems 
+	\
+	*Frontiers in Robotics and AI* 
+	\
 	[(Paper)](https://doi.org/10.3389/frobt.2021.756242)
-- **Gabriel Lima**, Assem Zhunis, Lev Manovich, Meeyoung Cha. On the Social-Relational Moral Standing of AI: An Empirical Study Using AI-Generated Art. *Frontiers in Robotics and AI.* 2021.
-	[(Paper)](https://doi.org/10.3389/frobt.2021.719944)
-- **Gabriel  Lima**, Changyeon Kim, Seungho Ryu, Chihyung Jeon, Meeyoung Cha. Collecting the Public Perception of AI and Robot Rights. *Proceedings of the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW).* 2020.
-	[(Paper)](https://doi.org/10.1145/3415206)
 - [(See all publications)](./publications)
 
 ### Education
 - KAIST (Korea Advanced Institute of Science and Technology)
-	- M.S. in Computer Science, Mar 2021 - Present
+	- M.S. in Computer Science, Mar 2021 - Feb 2023
+		- Thesis: The Conflict Between Explainability and Responsibility in Algorithmic Decision-Making
+		- Advisor: Meeyoung Cha
 	- B.S. in Computer Science, Feb 2017 - Feb 2021
 - EPFL (École Polytechnique Fédérale de Lausanne)
 	- Exchange Semester, Sep 2019 - Feb 2020
