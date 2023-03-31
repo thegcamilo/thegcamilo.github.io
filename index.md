@@ -6,9 +6,11 @@ subtitle: About Me
 
 I am a computer scientist interested in understanding laypeople's perceptions of artificial intelligence (AI) systems and their impacts on society. More concretely, I aim to investigate how AI developers can shape the public perception of decision-making algorithms. I am interested in how some of the ideologies shaping AI research, e.g., that algorithms are value neutral, can form laypeople's understanding of algorithms deployed in high-risk domains. I intend to study how these ideas can be exploited by developers to escape deserved accountability and help justify unjust social outcomes caused by decision-making AI to the public.
 
-During my BS and MS, I investigated people's perceptions of moral and legal responsibility for algorithmic decision-making. My research focused on capturing whom people consider responsible when AI causes harm to embed laypeople's opinions in normative research and policymaking to mitigate any potential conflicts between folk expectations and AI governance. 
+During my BS and MS, I investigated people's perceptions of moral and legal responsibility for algorithmic decision-making. My research focused on capturing whom people consider responsible when AI causes harm to embed laypeople's opinions in normative research and policymaking, mitigating any potential conflicts between folk expectations and AI governance. 
 
-I obtained my MS from KAIST, being advised by Prof. Meeyoung Cha. During my BS and MS, I was also affiliated with the Data Science Group at the Institute for Basic Science (IBS).
+I am an incoming PhD student at the Max Planck Institute for Security and Privacy (MPI-SP), where I will be advised by [Yixin Zou](https://yixinzou.github.io/). I obtained my BS and MS from KAIST, where I worked with [Meeyoung Cha](https://ds.ibs.re.kr/ci/). 
+
+<!-- I obtained my MS from KAIST, being advised by Prof. Meeyoung Cha. During my BS and MS, I was also affiliated with the Data Science Group at the Institute for Basic Science (IBS). -->
 
 ### Selected Publications
 
@@ -50,6 +52,8 @@ I obtained my MS from KAIST, being advised by Prof. Meeyoung Cha. During my BS a
 - [(See all publications)](./publications)
 
 ### Education
+<!-- - Max Planck Institute for Security and Privacy (MPI-SP)
+	- Ph.D., Sep 2023 - ...  -->
 - KAIST (Korea Advanced Institute of Science and Technology)
 	- M.S. in Computer Science, Mar 2021 - Feb 2023
 		- Thesis: The Conflict Between Explainability and Responsibility in Algorithmic Decision-Making
