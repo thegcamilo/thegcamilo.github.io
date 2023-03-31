@@ -53,11 +53,12 @@ I am an incoming PhD student at the Max Planck Institute for Security and Privac
 
 ### Education
 <!-- - Max Planck Institute for Security and Privacy (MPI-SP)
-	- Ph.D., Sep 2023 - ...  -->
+	- Ph.D., Sep 2023 - ...  
+		- Advisor: [Yixin Zou](https://yixinzou.github.io/) -->
 - KAIST (Korea Advanced Institute of Science and Technology)
 	- M.S. in Computer Science, Mar 2021 - Feb 2023
 		- Thesis: The Conflict Between Explainability and Responsibility in Algorithmic Decision-Making
-		- Advisor: Meeyoung Cha
+		- Advisor: [Meeyoung Cha](https://ds.ibs.re.kr/ci/)
 	- B.S. in Computer Science, Feb 2017 - Feb 2021
 - EPFL (École Polytechnique Fédérale de Lausanne)
 	- Exchange Semester, Sep 2019 - Feb 2020
