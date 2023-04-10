@@ -14,9 +14,16 @@ I am an incoming PhD student at the Max Planck Institute for Security and Privac
 
 ### Selected Publications
 
+- **Gabriel  Lima**, Nina Grgić-Hlača, Jin Keun Jeong, Meeyoung Cha
+	\
+	Who Should Pay When Machines Cause Harm? Laypeople's Expectations of Legal Damages for Machine-Caused Harm
+	\
+	*ACM FAccT 2023*
+	\
+	[(To Appear)]()
 - **Gabriel  Lima**, Nina Grgić-Hlača, Meeyoung Cha
 	\
-	Blaming Humans and Machines: What Shapes People's Reactions to Algorithmic Harm.
+	Blaming Humans and Machines: What Shapes People's Reactions to Algorithmic Harm
 	\
 	*ACM CHI 2023*
 	\
