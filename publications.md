@@ -19,7 +19,7 @@ subtitle: Publications
 	\
 	*ACM CHI 2023*
 	\
-	[(To Appear)]()
+	[(Paper)](https://doi.org/10.1145/3544548.3580953)
 - Hyojin Chin, **Gabriel Lima**, Mingi Shin, Assem Zhunis, Chiyoung Cha, Junghoi Choi, Meeyoung Cha
 	\
 	User-Chatbot Conversations During the COVID-19 Pandemic: A Study Based on Topic Modeling and Sentiment Analysis

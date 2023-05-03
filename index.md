@@ -27,7 +27,7 @@ I am an incoming PhD student at the Max Planck Institute for Security and Privac
 	\
 	*ACM CHI 2023*
 	\
-	[(To Appear)]()
+	[(Paper)](https://doi.org/10.1145/3544548.3580953)
 - **Gabriel  Lima**, Nina Grgić-Hlača, Jin Keun Jeong, Meeyoung Cha
 	\
 	The Conflict Between Explainable and Accountable Decision-Making Algorithms 
