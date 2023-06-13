@@ -20,7 +20,7 @@ I am an incoming PhD student at the Max Planck Institute for Security and Privac
 	\
 	*ACM FAccT 2023*
 	\
-	[(To Appear)]()
+	[(Paper)](https://dl.acm.org/doi/10.1145/3593013.3593992)
 - **Gabriel  Lima**, Nina Grgić-Hlača, Meeyoung Cha
 	\
 	Blaming Humans and Machines: What Shapes People's Reactions to Algorithmic Harm
