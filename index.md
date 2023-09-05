@@ -59,7 +59,7 @@ I am a PhD student at the Max Planck Institute for Security and Privacy (MPI-SP)
 - [(See all publications)](./publications)
 
 ### Education
-Max Planck Institute for Security and Privacy (MPI-SP)
+- Max Planck Institute for Security and Privacy (MPI-SP)
 	- Ph.D. in Computer Science, Sep 2023 - Present
 		- Advisor: [Yixin Zou](https://yixinzou.github.io/)
 - KAIST (Korea Advanced Institute of Science and Technology)
