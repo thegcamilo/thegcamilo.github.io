@@ -8,7 +8,7 @@ I am a computer scientist interested in understanding laypeople's perceptions of
 
 During my BS and MS, I investigated people's perceptions of moral and legal responsibility for algorithmic decision-making. My research focused on capturing whom people consider responsible when AI causes harm to embed laypeople's opinions in normative research and policymaking, mitigating any potential conflicts between folk expectations and AI governance. 
 
-I am a PhD student at the Max Planck Institute for Security and Privacy (MPI-SP), where I will be advised by [Yixin Zou](https://yixinzou.github.io/). I obtained my BS and MS from KAIST, where I worked with [Meeyoung Cha](https://ds.ibs.re.kr/ci/). 
+I am a PhD student at the Max Planck Institute for Security and Privacy (MPI-SP), where I am advised by [Yixin Zou](https://yixinzou.github.io/). I obtained my BS and MS from KAIST, where I worked with [Meeyoung Cha](https://ds.ibs.re.kr/ci/). 
 
 <!-- I obtained my MS from KAIST, being advised by Prof. Meeyoung Cha. During my BS and MS, I was also affiliated with the Data Science Group at the Institute for Basic Science (IBS). -->
 
