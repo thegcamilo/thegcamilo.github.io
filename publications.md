@@ -19,6 +19,13 @@ subtitle: Publications
 	*ACM CHI 2025*
 	\
 	To Appear
+- Xinru Tang, **Gabriel  Lima**, Li Jiang Jiang, Lucy Simko, Yixin Zou
+	\
+	Beyond "Vulnerable Populations:" A Unified Understanding of Vulnerability From A Socio-Ecological Perspective
+	\
+	*ACM CSCW 2025*
+	\
+	To Appear
 
 ### 2023
 
