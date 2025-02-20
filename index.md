@@ -16,6 +16,20 @@ I am a PhD student at the Max Planck Institute for Security and Privacy (MPI-SP)
 
 ### Selected Publications
 
+- **Gabriel  Lima**, Nina Grgić-Hlača, Markus Langer, Yixin Zou
+	\
+	Lay Perceptions of Algorithmic Discrimination in the Context of Systemic Injustice 
+	\
+	*ACM CHI 2025*
+	\
+	To Appear
+- **Gabriel  Lima**, Nina Grgić-Hlača, Elissa Redmiles
+	\
+	Public Opinions About Copyright for AI-Generated Art: The Role of Egocentricity, Competition, and Experience
+	\
+	*ACM CHI 2025*
+	\
+	To Appear
 - **Gabriel  Lima**, Nina Grgić-Hlača, Jin Keun Jeong, Meeyoung Cha
 	\
 	Who Should Pay When Machines Cause Harm? Laypeople's Expectations of Legal Damages for Machine-Caused Harm
