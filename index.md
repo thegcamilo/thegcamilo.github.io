@@ -51,13 +51,6 @@ I am a PhD student at the Max Planck Institute for Security and Privacy (MPI-SP)
 	*ACM FAccT 2022*
 	\
 	[(Paper)](https://doi.org/10.1145/3531146.3534628)
-- **Gabriel  Lima**, Jiyoung Han, Meeyoung Cha
-	\
-	Others Are to Blame: Whom People Consider Responsible for Online Misinformation
-	\
-	*ACM CSCW 2022*
-	\
-	[(Paper)](https://doi.org/10.1145/3512953)
 - **Gabriel  Lima**, Nina Grgić-Hlača, Meeyoung Cha
 	\
 	Human Perceptions on Moral Responsibility of AI: A Case Study in AI-Assisted Bail Decision-Making 
@@ -65,13 +58,6 @@ I am a PhD student at the Max Planck Institute for Security and Privacy (MPI-SP)
 	*ACM CHI 2021* 
 	\
 	[(Paper)](https://doi.org/10.1145/3411764.3445260)
-- **Gabriel Lima**, Meeyoung Cha, Chihyung Jeon, Kyung Sin Park 
-	\
-	The Conflict Between People's Urge to Punish AI and Legal Systems 
-	\
-	*Frontiers in Robotics and AI* 
-	\
-	[(Paper)](https://doi.org/10.3389/frobt.2021.756242)
 - [(See all publications)](./publications)
 
 ### Education
