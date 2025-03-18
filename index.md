@@ -4,7 +4,7 @@ title: Gabriel Lima
 subtitle: About Me
 ---
 
-My research interests reside at the intersection of human-computer interaction (HCI) and responsible artificial intelligence (AI). More concretely, I am interested in understanding laypeople's perceptions of AI systems and their impacts on society. Through my research, I intend to examine how AI can rectify social injustices instead of perpetuate them.
+My research interests reside at the intersection of human-computer interaction (HCI) and responsible artificial intelligence (AI). More concretely, I am interested in understanding laypeople's perceptions of AI systems and their impacts on society. Through my research, I intend to examine how AI can rectify social injustices instead of perpetuating them.
 
 I am now investigating how different ways of framing algorithmic harms can shape the public perception of decision-making algorithms. I am interested in how some of the ideologies shaping AI research, e.g., that algorithms are value neutral, can form laypeople's understanding of algorithms deployed in high-risk domains. My primary objective is to influence the development and regulation of AI, ensuring that they are aligned with the opinions of historically marginalized groups.
 
