@@ -9,7 +9,7 @@ subtitle: Publications
 	\
 	Lay Perceptions of Algorithmic Discrimination in the Context of Systemic Injustice 
 	\
-	*ACM CHI 2025*
+	*ACM CHI 2025 (Honorable Mention Award)*
 	\
 	[(Preprint)](https://yixinzou.github.io/publications/pdf/chi2025-lima-preprint.pdf)
 - **Gabriel  Lima**, Nina Grgić-Hlača, Elissa Redmiles
@@ -92,7 +92,7 @@ subtitle: Publications
 	\
 	Dimensions of Diversity in Human Perceptions of Algorithmic Fairness 
 	\
-	*ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO) 2022*
+	*ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO) 2022 (New Horizons Award)*
 	\
 	[(Paper)](https://eaamo.org/papers/grgic-hlaca-22.pdf)
 - **Gabriel Lima**, Nina Grgić-Hlača, Meeyoung Cha, Jin Keun Jeong 

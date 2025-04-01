@@ -20,14 +20,14 @@ I am a PhD student at the Max Planck Institute for Security and Privacy (MPI-SP)
 	\
 	Lay Perceptions of Algorithmic Discrimination in the Context of Systemic Injustice 
 	\
-	*To Appear @ACM CHI 2025*
+	*@ACM CHI 2025 (Honorable Mention Award)*
 	\
 	[(Preprint)](https://yixinzou.github.io/publications/pdf/chi2025-lima-preprint.pdf)
 - **Gabriel  Lima**, Nina Grgić-Hlača, Elissa Redmiles
 	\
 	Public Opinions About Copyright for AI-Generated Art: The Role of Egocentricity, Competition, and Experience
 	\
-	*To Appear @ACM CHI 2025*
+	*@ACM CHI 2025*
 	\
 	[(Preprint)](https://arxiv.org/abs/2407.10546)
 - **Gabriel  Lima**, Nina Grgić-Hlača, Jin Keun Jeong, Meeyoung Cha
