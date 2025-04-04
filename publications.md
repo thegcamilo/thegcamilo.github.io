@@ -4,14 +4,14 @@ title: Gabriel Lima
 subtitle: Publications
 ---
 
-### 2025
+<!-- ### 2025
 - **Gabriel  Lima**, Nina Grgić-Hlača, Markus Langer, Yixin Zou
 	\
 	Lay Perceptions of Algorithmic Discrimination in the Context of Systemic Injustice 
 	\
 	*ACM CHI 2025 (Honorable Mention Award)*
 	\
-	[(Preprint)](https://yixinzou.github.io/publications/pdf/chi2025-lima-preprint.pdf)
+	[(Preprint)](https://yixinzou.github.io/publications/pdf/chi2025-lima-preprint.pdf) -->
 - **Gabriel  Lima**, Nina Grgić-Hlača, Elissa Redmiles
 	\
 	Public Opinions About Copyright for AI-Generated Art: The Role of Egocentricity, Competition, and Experience
