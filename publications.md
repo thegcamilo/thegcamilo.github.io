@@ -4,8 +4,8 @@ title: Gabriel Lima
 subtitle: Publications
 ---
 
-<!-- ### 2025
-- **Gabriel  Lima**, Nina Grgić-Hlača, Markus Langer, Yixin Zou
+### 2025
+<!-- - **Gabriel  Lima**, Nina Grgić-Hlača, Markus Langer, Yixin Zou
 	\
 	Lay Perceptions of Algorithmic Discrimination in the Context of Systemic Injustice 
 	\
