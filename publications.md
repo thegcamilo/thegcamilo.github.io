@@ -19,13 +19,13 @@ subtitle: Publications
 	*ACM CHI 2025*
 	\
 	[(Preprint)](https://arxiv.org/abs/2407.10546)
-- Xinru Tang, **Gabriel  Lima**, Li Jiang Jiang, Lucy Simko, Yixin Zou
+<!-- - Xinru Tang, **Gabriel  Lima**, Li Jiang Jiang, Lucy Simko, Yixin Zou
 	\
 	Beyond "Vulnerable Populations:" A Unified Understanding of Vulnerability From A Socio-Ecological Perspective
 	\
 	*ACM CSCW 2025*
 	\
-	[(Preprint)](https://yixinzou.github.io/publications/pdf/cscw2025-tang-preprint.pdf)
+	[(Preprint)](https://yixinzou.github.io/publications/pdf/cscw2025-tang-preprint.pdf) -->
 
 ### 2023
 
