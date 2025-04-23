@@ -4,26 +4,23 @@ title: Gabriel Lima
 subtitle: About Me
 ---
 
-My research interests reside at the intersection of human-computer interaction (HCI) and responsible artificial intelligence (AI). More concretely, I am interested in understanding laypeople's perceptions of AI systems and their impacts on society. 
-<!-- Through my research, I intend to examine how AI can rectify social injustices instead of perpetuating them. -->
+My research interests reside at the intersection of human-computer interaction (HCI) and responsible artificial intelligence (AI). More concretely, I am interested in understanding laypeople's perceptions of AI systems and their impacts on society. Through my research, I intend to examine how AI can rectify social injustices instead of perpetuating them.
 
-<!-- I am now investigating how different ways of framing algorithmic harms can shape the public perception of decision-making algorithms. I am interested in how some of the ideologies shaping AI research, e.g., that algorithms are value neutral, can form laypeople's understanding of algorithms deployed in high-risk domains. My primary objective is to influence the development and regulation of AI, ensuring that they are aligned with the opinions of historically marginalized groups.
+I am now investigating how different ways of framing algorithmic harms can shape the public perception of decision-making algorithms. I am interested in how some of the ideologies shaping AI research, e.g., that algorithms are value neutral, can form laypeople's understanding of algorithms deployed in high-risk domains. My primary objective is to influence the development and regulation of AI, ensuring that they are aligned with the opinions of historically marginalized groups.
 
-During my BS and MS, I investigated people's perceptions of moral and legal responsibility for algorithmic decision-making. My research focused on capturing whom people consider responsible when AI causes harm to embed laypeople's opinions in normative research and policymaking to mitigate any potential conflicts between folk expectations and AI governance.  -->
+During my BS and MS, I investigated people's perceptions of moral and legal responsibility for algorithmic decision-making. My research focused on capturing whom people consider responsible when AI causes harm to embed laypeople's opinions in normative research and policymaking to mitigate any potential conflicts between folk expectations and AI governance. 
 
-I am a PhD student at the Max Planck Institute for Security and Privacy (MPI-SP), where I am advised by [Yixin Zou](https://yixinzou.github.io/). I obtained my BS and MS from KAIST, where I worked with [Meeyoung Cha](https://ds.ibs.re.kr/ci/). 
-
-<!-- I obtained my MS from KAIST, being advised by Prof. Meeyoung Cha. During my BS and MS, I was also affiliated with the Data Science Group at the Institute for Basic Science (IBS). -->
+I am a PhD student at the Max Planck Institute for Security and Privacy (MPI-SP), where I am advised by [Yixin Zou](https://yixinzou.github.io/). I obtained my BS and MS from KAIST, where I worked with [Meeyoung Cha](https://www.mpi-sp.org/cha). 
 
 ### Selected Publications
 
-<!-- - **Gabriel  Lima**, Nina Grgić-Hlača, Markus Langer, Yixin Zou
+- **Gabriel  Lima**, Nina Grgić-Hlača, Markus Langer, Yixin Zou
 	\
 	Lay Perceptions of Algorithmic Discrimination in the Context of Systemic Injustice 
 	\
 	*@ACM CHI 2025 (Honorable Mention Award)*
 	\
-	[(Preprint)](./assets/chi2025-lima-preprint.pdf) -->
+	[(Preprint)](./assets/chi2025-lima-preprint.pdf)
 - **Gabriel  Lima**, Nina Grgić-Hlača, Elissa Redmiles
 	\
 	Public Opinions About Copyright for AI-Generated Art: The Role of Egocentricity, Competition, and Experience

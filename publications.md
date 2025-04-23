@@ -5,13 +5,13 @@ subtitle: Publications
 ---
 
 ### 2025
-<!-- - **Gabriel  Lima**, Nina Grgić-Hlača, Markus Langer, Yixin Zou
+- **Gabriel  Lima**, Nina Grgić-Hlača, Markus Langer, Yixin Zou
 	\
 	Lay Perceptions of Algorithmic Discrimination in the Context of Systemic Injustice 
 	\
 	*ACM CHI 2025 (Honorable Mention Award)*
 	\
-	[(Preprint)](https://yixinzou.github.io/publications/pdf/chi2025-lima-preprint.pdf) -->
+	[(Preprint)](https://yixinzou.github.io/publications/pdf/chi2025-lima-preprint.pdf)
 - **Gabriel  Lima**, Nina Grgić-Hlača, Elissa Redmiles
 	\
 	Public Opinions About Copyright for AI-Generated Art: The Role of Egocentricity, Competition, and Experience
@@ -19,13 +19,13 @@ subtitle: Publications
 	*ACM CHI 2025*
 	\
 	[(Preprint)](https://arxiv.org/abs/2407.10546)
-<!-- - Xinru Tang, **Gabriel  Lima**, Li Jiang Jiang, Lucy Simko, Yixin Zou
+- Xinru Tang, **Gabriel  Lima**, Li Jiang Jiang, Lucy Simko, Yixin Zou
 	\
 	Beyond "Vulnerable Populations:" A Unified Understanding of Vulnerability From A Socio-Ecological Perspective
 	\
 	*ACM CSCW 2025*
 	\
-	[(Preprint)](https://yixinzou.github.io/publications/pdf/cscw2025-tang-preprint.pdf) -->
+	[(Preprint)](https://yixinzou.github.io/publications/pdf/cscw2025-tang-preprint.pdf)
 
 ### 2023
 
