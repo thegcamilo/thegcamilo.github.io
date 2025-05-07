@@ -25,7 +25,7 @@ subtitle: Publications
 	\
 	*ACM CSCW 2025*
 	\
-	[(Preprint)](https://yixinzou.github.io/publications/pdf/cscw2025-tang-preprint.pdf)
+	[(Paper)](https://dl.acm.org/doi/10.1145/3710935)
 
 ### 2023
 
