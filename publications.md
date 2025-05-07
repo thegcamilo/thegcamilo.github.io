@@ -11,14 +11,14 @@ subtitle: Publications
 	\
 	*ACM CHI 2025 (Honorable Mention Award)*
 	\
-	[(Preprint)](https://yixinzou.github.io/publications/pdf/chi2025-lima-preprint.pdf)
+	[(Paper)](https://doi.org/10.1145/3706598.3713536)
 - **Gabriel  Lima**, Nina Grgić-Hlača, Elissa Redmiles
 	\
 	Public Opinions About Copyright for AI-Generated Art: The Role of Egocentricity, Competition, and Experience
 	\
 	*ACM CHI 2025*
 	\
-	[(Preprint)](https://arxiv.org/abs/2407.10546)
+	[(Paper)](https://dl.acm.org/doi/10.1145/3706598.3713338)
 - Xinru Tang, **Gabriel  Lima**, Li Jiang Jiang, Lucy Simko, Yixin Zou
 	\
 	Beyond "Vulnerable Populations:" A Unified Understanding of Vulnerability From A Socio-Ecological Perspective

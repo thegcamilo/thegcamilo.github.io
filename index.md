@@ -10,7 +10,7 @@ I am now investigating how different ways of framing algorithmic harms can shape
 
 During my BS and MS, I investigated people's perceptions of moral and legal responsibility for algorithmic decision-making. My research focused on capturing whom people consider responsible when AI causes harm to embed laypeople's opinions in normative research and policymaking to mitigate any potential conflicts between folk expectations and AI governance. 
 
-I am a PhD student at the Max Planck Institute for Security and Privacy (MPI-SP), where I am advised by [Yixin Zou](https://yixinzou.github.io/). I obtained my BS and MS from KAIST, where I worked with [Meeyoung Cha](https://www.mpi-sp.org/cha). 
+<!-- I am a PhD student at the Max Planck Institute for Security and Privacy (MPI-SP), where I am advised by [Yixin Zou](https://yixinzou.github.io/). I obtained my BS and MS from KAIST, where I worked with [Meeyoung Cha](https://www.mpi-sp.org/cha).  -->
 
 ### Selected Publications
 
@@ -20,14 +20,14 @@ I am a PhD student at the Max Planck Institute for Security and Privacy (MPI-SP)
 	\
 	*@ACM CHI 2025 (Honorable Mention Award)*
 	\
-	[(Preprint)](./assets/chi2025-lima-preprint.pdf)
+	[(Paper)](https://doi.org/10.1145/3706598.3713536)
 - **Gabriel  Lima**, Nina Grgić-Hlača, Elissa Redmiles
 	\
 	Public Opinions About Copyright for AI-Generated Art: The Role of Egocentricity, Competition, and Experience
 	\
 	*@ACM CHI 2025*
 	\
-	[(Preprint)](https://arxiv.org/abs/2407.10546)
+	[(Paper)](https://dl.acm.org/doi/10.1145/3706598.3713338)
 - **Gabriel  Lima**, Nina Grgić-Hlača, Jin Keun Jeong, Meeyoung Cha
 	\
 	Who Should Pay When Machines Cause Harm? Laypeople's Expectations of Legal Damages for Machine-Caused Harm
