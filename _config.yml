@@ -15,7 +15,7 @@ author: Gabriel Lima
 
 navbar-links:
   # About Me: "aboutme"
-  Publications: "publications"
+  Google Scholar: "https://scholar.google.com/citations?user=7sJq148AAAAJ&hl=en"
   CV: "./assets/CV.pdf"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -64,7 +64,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
- # google-scholar: https://scholar.google.com/citations?user=7sJq148AAAAJ&hl=en
+  google-scholar: https://scholar.google.com/citations?user=7sJq148AAAAJ&hl=en
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml

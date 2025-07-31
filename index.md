@@ -56,7 +56,7 @@ During my BS and MS, I investigated people's perceptions of moral and legal resp
 	*ACM CHI 2021* 
 	\
 	[(Paper)](https://doi.org/10.1145/3411764.3445260)
-- [(See all publications)](./publications)
+- [(See all publications)](https://scholar.google.com/citations?user=7sJq148AAAAJ&hl=en)
 
 ### Education
 - Max Planck Institute for Security and Privacy (MPI-SP)
