@@ -38,6 +38,13 @@ For a up-to-date list, please visit my [Google Scholar page](https://scholar.goo
 	*ACM CHI 2025*
 	\
 	[(Paper)](https://dl.acm.org/doi/10.1145/3706598.3713338)
+- **Gabriel  Lima**, Meeyoung Cha 
+	\
+	Human Perceptions of AI-Caused Harm
+	\
+	*The Cambridge Handbook of Experimental Jurisprudence*
+	\
+	[(Paper)](https://doi.org/10.1017/9781009170901.028)
 - Xinru Tang, **Gabriel  Lima**, Li Jiang Jiang, Lucy Simko, Yixin Zou
 	\
 	Beyond "Vulnerable Populations:" A Unified Understanding of Vulnerability From A Socio-Ecological Perspective
