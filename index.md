@@ -43,9 +43,4 @@ During my BS and MS, I investigated people's perceptions of moral and legal resp
 	[(Paper)](https://dl.acm.org/doi/10.1145/3706598.3713338)
 - [(See all publications)](./publications)
 
-## Contact
-
-gabriel.lima\[at\]mpi-sp.org | [LinkedIn](https://www.linkedin.com/in/gabriel-lima-531b271a0/)
-
-
 
