@@ -43,6 +43,7 @@ For a up-to-date list, please visit my [Google Scholar page](https://scholar.goo
 	Beyond "Vulnerable Populations:" A Unified Understanding of Vulnerability From A Socio-Ecological Perspective
 	\
 	*ACM CSCW 2025*
+	\
 	<span style="color:red">Recognition for Diversity and Inclusion</span>
 	\
 	[(Paper)](https://dl.acm.org/doi/10.1145/3710935)
@@ -78,6 +79,7 @@ For a up-to-date list, please visit my [Google Scholar page](https://scholar.goo
 	The Conflict Between Explainable and Accountable Decision-Making Algorithms
 	\
 	*ACM FAccT 2022*
+	\
 	<span style="color:red">Best Student Paper at the "Issues in XAI \#4: Explainable AI: Between Ethics and Epistemology" Workshop</span>
 	\
 	[(Paper)](https://doi.org/10.1145/3531146.3534628)
@@ -116,6 +118,7 @@ For a up-to-date list, please visit my [Google Scholar page](https://scholar.goo
 	*ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO) 2022*
 	\
 	<span style="color:red">New Horizons Award</span>
+	\
 	[(Paper)](https://eaamo.org/papers/grgic-hlaca-22.pdf)
 - **Gabriel Lima**, Nina Grgić-Hlača, Meeyoung Cha, Jin Keun Jeong 
 	\
