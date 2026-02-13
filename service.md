@@ -19,7 +19,7 @@ layout: default
 - International Journal of Human-Computer Studies: 2022
 - We Robot Conference: 2021
 
-My reviews have also received "special recognitions for outstanding reviews" at ACM CHI (2023, 2024, 2025, 2026) and ACM CSCW (2022).
+I have also received "special recognitions for outstanding reviews" at ACM CHI (2023, 2024, 2025, 2026) and ACM CSCW (2022).
 
 ### Co-Founder & Member of the MPI-SP Ethics Review Board (ERB)
 
