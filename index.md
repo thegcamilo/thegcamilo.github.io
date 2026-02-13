@@ -4,42 +4,23 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="prof_pic.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! My name is Gabriel Lima. I am currently a Doctoral Researcher at the Max Planck Institute for Security and Privacy (MPI-SP), where I work alongside [Yixin Zou](https://yixinzou.github.io/). Before joining MPI-SP, where I obtained my BS and MS from KAIST, where I worked with [Meeyoung Cha](https://www.mpi-sp.org/cha).
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+My research interests reside at the intersection of human-computer interaction (HCI) and artificial intelligence (AI) ethics. I interrogate the prevailing narratives surrounding AI, explore how they shape laypeople's understanding of the technology, and seek to identify strategies to promote more grounded perceptions of real-world AI systems. I also explore whether and how the public opinion about AI can inform AI governance to ensure that it benefits those subjected to consequential AI systems.
 
-## Research Interest
+During my PhD, I have focused on investigating how different ways of talking about AI and its ethical implications can shape the public's perception of AI systems. My research approach is highly interdisciplinary; I collaborate with scholars from psychology, law, sociology, and communication and employ quantitative and computational methods to capture and make sense of narratives about AI and people's perceptions and opinions.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+During my BS and MS, I investigated people's perceptions of moral and legal responsibility for algorithmic decision-making. My research focused on capturing who people consider responsible when AI causes harm to embed laypeople's opinions in normative research and policymaking to mitigate potential conflicts between folk expectations and AI governance. 
 
-## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## Selected Publications
 
-## Typography
+1. 1
+2. 2
+For
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## Selected Honors and Awards
 
-Here is a table
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum

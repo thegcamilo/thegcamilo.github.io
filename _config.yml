@@ -8,17 +8,22 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: ""
+footer_text: ""
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+#  - name: "About"
+#    link: "/researcher/"
+ - name: "Publications"
+   link: "/publications/"
+ - name: "Service"
+   link: "/service/"
+ - name: "Teaching"
+   link: "/teaching/"
+ - name: "CV"
+   link: "assets/CV.pdf"
+
