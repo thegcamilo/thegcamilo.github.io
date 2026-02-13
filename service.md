@@ -10,16 +10,18 @@ layout: default
 
 ### Reviewer
 
-- ACM Conference on Human Factors in Computing Systems (CHI): 2023, 2024, 2025, 2026
+- ACM CHI: 2023, 2024, 2025, 2026
     - Special Recognitions for Outstanding Reviews: 2023, 2024, 2025, 2026
-- ACM Conference on Fairness, Accountability, and Transparency (FAccT): 2023, 2026 
+- ACM FAccT: 2023, 2026 
 - IEEE Security & Privacy: 2025
-- Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO): 2023
-- ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW): 2022, 2023
-    - Special Recognition for Outstanding Review: 2022
-- ACM Conference on Human Factors in Computing Systems (CHI) - Late Breaking Work/Posters: 2022, 2023
+- ACM EAAMO: 2023
+- ACM CSCW: 2022, 2023
+    - 2022
+- ACM CHI Late Breaking Work/Poster: 2022, 2023
 - International Journal of Human-Computer Studies: 2022
--  We Robot Conference: 2021
+- We Robot Conference: 2021
+
+My reviews have also received "special recognitions for outstanding review" at ACM CHI (2023, 2024, 2025, 2026) and ACM CSCW (2022).
 
 ### Co-Founder & Member of the MPI-SP Ethics Review Board (ERB)
 
