@@ -15,6 +15,8 @@ Recently, I have focused on investigating how different ways of talking about AI
 
 During my BS and MS, I investigated people's perceptions of moral and legal responsibility for algorithmic decision-making. My research focused on capturing who people consider responsible when AI causes harm to embed laypeople's opinions in normative research and policymaking to mitigate potential conflicts between folk expectations and AI governance. 
 
+You can always reach me via email: firstname.lastname@mpi-sp.org
+
 
 ## Selected Recent Publications
 
@@ -48,5 +50,9 @@ During my BS and MS, I investigated people's perceptions of moral and legal resp
 - Diversity and Inclusion Recognition, ACM CSCW 2025
 - Outstanding Thesis Award, KAIST School of Computing 2023
 - New Horizons Award, ACM EAAMO 2022
+
+<!-- <hr/>
+
+[Email](mailto:gabriel.lima@mpi-sp.org) &#124; [LinkedIn](https://www.linkedin.com/in/gabriel-lima-531b271a0/) -->
 
 

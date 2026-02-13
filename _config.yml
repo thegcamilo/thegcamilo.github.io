@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: ""
-footer_text: "[Email](mailto:gabriel.lima@mpi-sp.org) &#124; [LinkedIn](https://www.linkedin.com/in/gabriel-lima-531b271a0/)"
+footer_text: ""
 
 sass:
     style: compressed
