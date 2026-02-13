@@ -6,7 +6,7 @@ layout: default
 
 ### Program Committee Member / Associate Chair
 
-- ACM Conference on Human Factors in Computing Systems (CHI): 2026 (Critical Computing, Sustainability, and Social Justice)
+- ACM CHI: 2026 (Critical Computing, Sustainability, and Social Justice)
 
 ### Reviewer
 
