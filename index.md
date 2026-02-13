@@ -43,4 +43,10 @@ During my BS and MS, I investigated people's perceptions of moral and legal resp
 	[(Paper)](https://dl.acm.org/doi/10.1145/3706598.3713338)
 - [(See all publications)](./publications)
 
+## Selected Honors and Awards
+- Best Paper Honorable Mention, ACM CHI 2025
+- Diversity and Inclusion Recognition, ACM CSCW 2025
+- Outstanding Thesis Award, KAIST School of Computing 2023
+- New Horizons Award, ACM EAAMO 2022
+
 

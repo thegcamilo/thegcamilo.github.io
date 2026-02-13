@@ -10,18 +10,16 @@ layout: default
 
 ### Reviewer
 
-- ACM CHI: 2023, 2024, 2025, 2026
-    - Special Recognitions for Outstanding Reviews: 2023, 2024, 2025, 2026
+- ACM CHI: 2023, 2024, 2025, 2026 
 - ACM FAccT: 2023, 2026 
 - IEEE Security & Privacy: 2025
 - ACM EAAMO: 2023
 - ACM CSCW: 2022, 2023
-    - 2022
 - ACM CHI Late Breaking Work/Poster: 2022, 2023
 - International Journal of Human-Computer Studies: 2022
 - We Robot Conference: 2021
 
-My reviews have also received "special recognitions for outstanding review" at ACM CHI (2023, 2024, 2025, 2026) and ACM CSCW (2022).
+My reviews have also received "special recognitions for outstanding reviews" at ACM CHI (2023, 2024, 2025, 2026) and ACM CSCW (2022).
 
 ### Co-Founder & Member of the MPI-SP Ethics Review Board (ERB)
 
@@ -29,8 +27,9 @@ Designed and implemented all processes relevant to the Ethics Review Board (ERB)
 
 ### Member of the Max Planck Law | Tech | Society Initiative
 
-Hosted speakers on topics in the intersection of law, technology, and society, and organized yearly symposiums for graduate students from around the world. 
-[Visit our website for more information about our initiative](https://law.mpg.de/initiatives/max-planck-law-tech-society/).
+The Max Planck Law | Tech | Society initiative is an organization seeking to promote exchange of ideas at the intersection of law, technology, and society. We host bimonthly talks from established researchers at the intersection of law, computer science, and humanities and organize yearly symposiums for graduate students to present their work. 
+
+[Please visit our website for more information about the initiative.](https://law.mpg.de/initiatives/max-planck-law-tech-society/).
 
 ### PhD Representative for MPI-SP
 
