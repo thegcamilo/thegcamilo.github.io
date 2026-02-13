@@ -3,14 +3,32 @@ layout: default
 ---
 
 ## Publications
-For the most up-to-date list, please visit my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=7sJq148AAAAJ&view_op=list_works&sortby=pubdate).
+For a up-to-date list, please visit my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=7sJq148AAAAJ&view_op=list_works&sortby=pubdate).
+
+### 2026
+- **Gabriel  Lima**, Gustavo Gil Gasiola, Frederike Zufall, Yixin Zou
+	\
+	 Do Citizens Agree with the EU AI Act? Public Perspectives on Risk and Regulation of AI Systems
+	\
+	*@ACM CHI 2026*
+	\
+	(To Appear)
+- Ankolika De, **Gabriel  Lima**, Yixin Zou
+	\
+	  What is Safety? Corporate Discourse, Power, and the Politics of Generative AI Safety
+	\
+	*@ACM CHI 2026*
+	\
+	(To Appear)
 
 ### 2025
 - **Gabriel  Lima**, Nina Grgić-Hlača, Markus Langer, Yixin Zou
 	\
 	Lay Perceptions of Algorithmic Discrimination in the Context of Systemic Injustice 
 	\
-	*ACM CHI 2025 (Honorable Mention Award)*
+	*ACM CHI 2025*
+	\
+	<span style="color:red">Best Paper Honorable Mention</span>
 	\
 	[(Paper)](https://doi.org/10.1145/3706598.3713536)
 - **Gabriel  Lima**, Nina Grgić-Hlača, Elissa Redmiles
@@ -25,6 +43,7 @@ For the most up-to-date list, please visit my [Google Scholar page](https://scho
 	Beyond "Vulnerable Populations:" A Unified Understanding of Vulnerability From A Socio-Ecological Perspective
 	\
 	*ACM CSCW 2025*
+	<span style="color:red">Recognition for Diversity and Inclusion</span>
 	\
 	[(Paper)](https://dl.acm.org/doi/10.1145/3710935)
 
@@ -59,6 +78,7 @@ For the most up-to-date list, please visit my [Google Scholar page](https://scho
 	The Conflict Between Explainable and Accountable Decision-Making Algorithms
 	\
 	*ACM FAccT 2022*
+	<span style="color:red">Best Student Paper at the "Issues in XAI \#4: Explainable AI: Between Ethics and Epistemology" Workshop</span>
 	\
 	[(Paper)](https://doi.org/10.1145/3531146.3534628)
 - **Gabriel  Lima**, Jiyoung Han, Meeyoung Cha
@@ -93,8 +113,9 @@ For the most up-to-date list, please visit my [Google Scholar page](https://scho
 	\
 	Dimensions of Diversity in Human Perceptions of Algorithmic Fairness 
 	\
-	*ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO) 2022 (New Horizons Award)*
+	*ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO) 2022*
 	\
+	<span style="color:red">New Horizons Award</span>
 	[(Paper)](https://eaamo.org/papers/grgic-hlaca-22.pdf)
 - **Gabriel Lima**, Nina Grgić-Hlača, Meeyoung Cha, Jin Keun Jeong 
 	\
