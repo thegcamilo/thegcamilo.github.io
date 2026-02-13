@@ -21,17 +21,17 @@ layout: default
 
 I have also received "special recognitions for outstanding reviews" at ACM CHI (2023, 2024, 2025, 2026) and ACM CSCW (2022).
 
-### Co-Founder & Member of the MPI-SP Ethics Review Board (ERB)
+### Co-Founder & Member of the MPI-SP Ethics Review Board (ERB) (2024-Current)
 
 Designed and implemented all processes relevant to the Ethics Review Board (ERB) at MPI-SP. Currently a member of the board.
 
-### Member of the Max Planck Law | Tech | Society Initiative
+### Member of the Max Planck Law | Tech | Society Initiative (2023-Current)
 
 The Max Planck Law &#124; Tech &#124; Society initiative is an organization seeking to promote exchange of ideas at the intersection of law, technology, and society. We host bimonthly talks from established researchers at the intersection of law, computer science, and humanities and organize yearly symposiums for graduate students to present their work. 
 
-[Please visit our website for more information about the initiative.](https://law.mpg.de/initiatives/max-planck-law-tech-society/).
+[Please visit our website for more information about the initiative.](https://law.mpg.de/initiatives/max-planck-law-tech-society/)
 
-### PhD Representative for MPI-SP
+### PhD Representative for MPI-SP (2024-Current)
 
-Responsible for representing MPI-SP PhD students in meetings discussing student-related issues at MPI-SP and the Max Planck Society.
+Responsible for representing MPI-SP PhD students in meetings discussing student-related issues at MPI-SP and the Max Planck Society. 
 
