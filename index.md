@@ -29,8 +29,10 @@ During my BS and MS, I investigated people's perceptions of moral and legal resp
 	\
 	Lay Perceptions of Algorithmic Discrimination in the Context of Systemic Injustice 
 	\
-	*@ACM CHI 2025 (Best Paper Honorable Mention Award)*
+	*@ACM CHI 2025*
 	\
+    <span style="color:red">Best Paper Honorable Mention</span>
+    \
 	[(Paper)](https://doi.org/10.1145/3706598.3713536)
 - **Gabriel  Lima**, Nina Grgić-Hlača, Elissa Redmiles
 	\
