@@ -7,6 +7,8 @@ For an up-to-date list, please visit my [Google Scholar page](https://scholar.go
 
 Conferences are the primary publication venues for computer science/human-computer interaction (CS/HCI) research. Thus, the majority of my research is published in CS/HCI conference proceedings.
 
+ (* denotes equal contribution/co-first authorship)
+
 ### 2026
 - **Gabriel  Lima**, Gustavo Gil Gasiola, Frederike Zufall, Yixin Zou
 	\
@@ -103,14 +105,14 @@ Conferences are the primary publication venues for computer science/human-comput
 	\
 	Misinformation, Believability, and Vaccine Acceptance Over 40 Countries: Takeaways From the Initial Phase of The COVID-19 Infodemic 
 	\
-	*PLOS ONE* (* denotes co-first authorship)
+	*PLOS ONE*
 	\
 	[(Paper)](https://doi.org/10.1371/journal.pone.0263381)
 - Saifeldeen Zihiri<sup>\*</sup>, **Gabriel Lima<sup>\*</sup>**, Jiyoung Han, Meeyoung Cha, Wonjae Lee
 	\
 	QAnon Shifts Into the Mainstream, Remains a Far-Right Ally 
 	\
-	*Heliyon* (* denotes co-first authorship)
+	*Heliyon*
 	\
 	[(Paper)](https://doi.org/10.1016/j.heliyon.2022.e08764)
 - Assem Zhunis, **Gabriel  Lima**, Hyeonho Song, Jiyoung Han, Meeyoung Cha
