@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Publications
-For a up-to-date list, please visit my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=7sJq148AAAAJ&view_op=list_works&sortby=pubdate).
+For an up-to-date list, please visit my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=7sJq148AAAAJ&view_op=list_works&sortby=pubdate).
 
 Conferences are the primary publication venues for computer science/human-computer interaction (CS/HCI) research. Thus, the majority of my research is published in CS/HCI conference proceedings.
 
