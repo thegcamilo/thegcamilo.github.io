@@ -10,7 +10,7 @@ Hi! My name is Gabriel Lima. I am currently a Doctoral Researcher (i.e., PhD Can
 
 I am a human-computer interaction (HCI) researcher interested in responsible, human-centered artificial intelligence (AI). Through my work, I seek to embed the public's perceptions and opinions of consequential AI systems into debates concerning their real-world ethical, social, and legal implications. My overarching objective is to ensure that the development and governance of AI reflect the values, expectations, and opinions of the people who use and are affected by these systems.
 
-My work primarily focuses on three main directions:
+My work primarily focuses on three interconnected directions:
 - Examining people’s expectations and opinions of high-risk AI systems to inform real-world ethical, social, and legal debates surrounding AI.
 - Experimentally investigating how the predominant debates on AI—and different perspectives on them—shape the public’s perceptions;
 - Analyzing the predominant perspectives on the ethical, social, and legal implications of AI, as well as the solutions put forward to address them
@@ -62,7 +62,8 @@ I interrogate the prevailing narratives surrounding AI, explore how they shape l
 	*@ACM CHI 2025*
 	\
 	[(Paper)](https://dl.acm.org/doi/10.1145/3706598.3713338)
-- [(See all publications)](./publications)
+	
+[(See all publications)](./publications)
 
 ## Selected Honors and Awards
 - Best Paper Honorable Mention, ACM CHI 2025
@@ -70,8 +71,10 @@ I interrogate the prevailing narratives surrounding AI, explore how they shape l
 - Outstanding Thesis Award, KAIST School of Computing 2023
 - New Horizons Award, ACM EAAMO 2022
 
-<!-- <hr/>
+<hr/>
 
-[Email](mailto:gabriel.lima@mpi-sp.org) &#124; [LinkedIn](https://www.linkedin.com/in/gabriel-lima-531b271a0/) -->
+firstname.lastname@mpi-sp.org &nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?hl=en&user=7sJq148AAAAJ&view_op=list_works&sortby=pubdate) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/gabriel-lima-531b271a0/) &nbsp;&nbsp; [BlueSky](https://bsky.app/profile/glima.bsky.social)
+
+<br/>
 
 
