@@ -11,9 +11,9 @@ Hi! My name is Gabriel Lima. I am currently a Doctoral Researcher (i.e., PhD Can
 I am a human-computer interaction (HCI) researcher interested in responsible, human-centered artificial intelligence (AI). Through my work, I seek to embed the public's perceptions and opinions of consequential AI systems into debates concerning their real-world ethical, social, and legal implications. My overarching objective is to ensure that the development and governance of AI reflect the values, expectations, and opinions of the people who use and are affected by these systems.
 
 My work primarily focuses on three main directions:
-	- Examining people’s expectations and opinions of high-risk AI systems to inform real-world ethical, social, and legal debates surrounding AI.
-	- Experimentally investigating how the predominant debates on AI—and different perspectives on them—shape the public’s perceptions;
-	- Analyzing the predominant perspectives on the ethical, social, and legal implications of AI, as well as the solutions put forward to address them
+- Examining people’s expectations and opinions of high-risk AI systems to inform real-world ethical, social, and legal debates surrounding AI.
+- Experimentally investigating how the predominant debates on AI—and different perspectives on them—shape the public’s perceptions;
+- Analyzing the predominant perspectives on the ethical, social, and legal implications of AI, as well as the solutions put forward to address them
 
 My research approach is highly interdisciplinary. I have collaborated with scholars from psychology, law, sociology, communication, and other disciplines, always aiming to bring different disciplinary perspectives together. My research employs quantitative, qualitative, and computational methods to capture and make sense of narratives about AI and people's perceptions and opinions.
 
