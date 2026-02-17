@@ -16,8 +16,8 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/"
+#  - name: "About"
+#    link: "/"
  - name: "Publications"
    link: "publications"
  - name: "Service"
