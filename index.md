@@ -61,8 +61,7 @@ I interrogate the prevailing narratives surrounding AI, explore how they shape l
 	*@ACM CHI 2025*
 	\
 	[(Paper)](https://dl.acm.org/doi/10.1145/3706598.3713338)
-	
-[(See all publications)](./publications)
+- [(See all publications)](./publications)
 
 ## Selected Honors and Awards
 - Best Paper Honorable Mention, ACM CHI 2025
