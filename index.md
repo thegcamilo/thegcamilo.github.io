@@ -81,6 +81,4 @@ I interrogate the prevailing narratives surrounding AI, explore how they shape l
   <a href="https://bsky.app/profile/glima.bsky.social">BlueSky</a>
 </div>
 
-<br/>
-
 
