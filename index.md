@@ -12,7 +12,7 @@ I am a human-computer interaction (HCI) researcher interested in responsible, hu
 
 My work primarily focuses on three interconnected directions:
 - Examining people’s expectations and opinions of high-risk AI systems to inform real-world ethical, social, and legal debates surrounding AI <small>[[CHI 2026a](), [CHI 2025a](https://dl.acm.org/doi/10.1145/3706598.3713338), [Cambridge 2025](https://doi.org/10.1017/9781009170901.028), [FAccT 2023](https://dl.acm.org/doi/10.1145/3593013.3593992), [EAAMO 2022](https://eaamo.org/papers/grgic-hlaca-22.pdf), [CHI 2021](https://doi.org/10.1145/3411764.3445260), [Frontiers 2021a](https://doi.org/10.3389/frobt.2021.756242)]</small>;
-- Experimentally investigating how the predominant debates on AI—and different perspectives about them—shape the public’s perceptions <small>[[CHI 2025b](https://doi.org/10.1145/3706598.3713536), [CHI 2023](https://doi.org/10.1145/3544548.3580953), [Frontiers 2021b](https://doi.org/10.3389/frobt.2021.719944), [CSCW 2020](https://doi.org/10.1145/3415206)]
+- Experimentally investigating how prevalent debates on AI—and different perspectives about them—shape the public’s perceptions <small>[[CHI 2025b](https://doi.org/10.1145/3706598.3713536), [CHI 2023](https://doi.org/10.1145/3544548.3580953), [Frontiers 2021b](https://doi.org/10.3389/frobt.2021.719944), [CSCW 2020](https://doi.org/10.1145/3415206)]
 </small>;
 - Analyzing the predominant perspectives on the ethical, social, and legal questions raised by AI, as well as the solutions put forward to address them <small>[[CHI 2026b](), [CSCW 2025](https://dl.acm.org/doi/10.1145/3710935), [FAccT 2022](https://doi.org/10.1145/3531146.3534628)]</small>.
 
