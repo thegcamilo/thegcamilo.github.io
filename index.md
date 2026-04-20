@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="assets/prof_pic.jpg">
 
-Hi! My name is Gabriel Lima. I am currently a Doctoral Researcher (i.e., PhD Candidate) at the Max Planck Institute for Security and Privacy (MPI-SP), where I work alongside [Yixin Zou](https://yixinzou.github.io/). Before joining MPI-SP, I obtained my BSc and MSc from KAIST, where I worked with [Meeyoung Cha](https://www.mpi-sp.org/cha).
+Hi! My name is Gabriel Lima. I am currently a Doctoral Researcher at the Max Planck Institute for Security and Privacy (MPI-SP), where I work alongside [Yixin Zou](https://yixinzou.github.io/). Before joining MPI-SP, I obtained my BSc and MSc from KAIST, where I worked with [Meeyoung Cha](https://www.mpi-sp.org/cha).
 
 I am a human-computer interaction (HCI) researcher interested in responsible, human-centered artificial intelligence (AI). Through my work, I seek to embed the public's perceptions and opinions of consequential AI systems into debates concerning their real-world ethical, social, and legal implications. My overarching objective is to ensure that the development and governance of AI reflect the values, expectations, and opinions of the people who use and are affected by these systems.
 
