@@ -16,14 +16,14 @@ Conferences are the primary publication venues for computer science/human-comput
 	\
 	*@ACM CHI 2026*
 	\
-	[(Preprint)](./assets/CHI2026a_AIAct_Preprint.pdf)
+	[(Paper)](https://doi.org/10.1145/3772318.3790535)
 - Ankolika De, **Gabriel  Lima**, Yixin Zou
 	\
 	  What is Safety? Corporate Discourse, Power, and the Politics of Generative AI Safety
 	\
 	*@ACM CHI 2026*
 	\
-	[(Preprint)](https://arxiv.org/abs/2602.06981)
+	[(Paper)](https://doi.org/10.1145/3772318.3791632)
 
 ### 2025
 - **Gabriel  Lima**, Nina Grgić-Hlača, Markus Langer, Yixin Zou

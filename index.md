@@ -44,7 +44,7 @@ I interrogate the prevailing narratives surrounding AI, explore how they shape l
 	\
 	*@ACM CHI 2026*
 	\
-	[(Preprint)](./assets/CHI2026a_AIAct_Preprint.pdf)
+	[(Paper)](https://doi.org/10.1145/3772318.3790535)
 - **Gabriel  Lima**, Nina Grgić-Hlača, Markus Langer, Yixin Zou
 	\
 	Lay Perceptions of Algorithmic Discrimination in the Context of Systemic Injustice 
