@@ -44,6 +44,8 @@ I interrogate the prevailing narratives surrounding AI, explore how they shape l
 	\
 	*@ACM CHI 2026*
 	\
+    <span style="color:red">CNIL-EHESS Award</span>
+	\
 	[(Paper)](https://doi.org/10.1145/3772318.3790535)
 - **Gabriel  Lima**, Nina Grgić-Hlača, Markus Langer, Yixin Zou
 	\
@@ -64,6 +66,7 @@ I interrogate the prevailing narratives surrounding AI, explore how they shape l
 - [(See all publications)](./publications)
 
 ## Selected Honors and Awards
+- CNIL-EHESS Award, 2026
 - Best Paper Honorable Mention, ACM CHI 2025
 - Diversity and Inclusion Recognition, ACM CSCW 2025
 - Outstanding Thesis Award, KAIST School of Computing 2023

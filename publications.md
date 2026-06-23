@@ -16,6 +16,8 @@ Conferences are the primary publication venues for computer science/human-comput
 	\
 	*@ACM CHI 2026*
 	\
+    <span style="color:red">CNIL-EHESS Award</span>
+	\
 	[(Paper)](https://doi.org/10.1145/3772318.3790535)
 - Ankolika De, **Gabriel  Lima**, Yixin Zou
 	\
