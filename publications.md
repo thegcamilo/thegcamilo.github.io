@@ -132,7 +132,7 @@ Conferences are the primary publication venues for computer science/human-comput
 	\
 	<span style="color:red">New Horizons Award</span>
 	\
-	[(Paper)](https://eaamo.org/papers/grgic-hlaca-22.pdf)
+	[(Paper)](https://dl.acm.org/doi/10.1145/3551624.3555306)
 - **Gabriel Lima**, Nina Grgić-Hlača, Meeyoung Cha, Jin Keun Jeong 
 	\
 	How XAI May Be Exploited To Create Seemingly Blameworthy AI 
