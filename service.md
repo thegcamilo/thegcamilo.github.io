@@ -6,11 +6,11 @@ layout: default
 
 ### Program Committee Member / Associate Chair
 
-- ACM CHI: 2026 (Critical Computing, Sustainability, and Social Justice)
+- ACM CHI: 2026, 2027
 
 ### Reviewer
 
-- ACM CHI: 2023, 2024, 2025, 2026 
+- ACM CHI: 2023, 2024, 2025
 - ACM FAccT: 2023, 2026 
 - IEEE Security & Privacy: 2025
 - ACM EAAMO: 2023
