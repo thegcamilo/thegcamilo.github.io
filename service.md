@@ -31,7 +31,7 @@ The Max Planck Law &#124; Tech &#124; Society initiative is an organization seek
 
 [Please visit our website for more information about the initiative.](https://law.mpg.de/initiatives/max-planck-law-tech-society/)
 
-### PhD Representative for MPI-SP (2024-Current)
+### PhD Representative for MPI-SP (2024-2026)
 
 Responsible for representing MPI-SP PhD students in meetings discussing student-related issues at MPI-SP and the Max Planck Society. 
 
