@@ -10,7 +10,7 @@ layout: default
 
 ### Reviewer
 
-- ACM CHI: 2023, 2024, 2025
+- ACM CHI: 2023, 2024, 2025, 2026
 - ACM FAccT: 2023, 2026 
 - IEEE Security & Privacy: 2025
 - ACM EAAMO: 2023
