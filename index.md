@@ -81,7 +81,6 @@ I interrogate the prevailing narratives surrounding AI, explore how they shape l
   &nbsp;&nbsp; 
   <a href="https://www.linkedin.com/in/gabriel-lima-531b271a0/">LinkedIn</a> 
   &nbsp;&nbsp; 
-  <a href="https://bsky.app/profile/glima.bsky.social">BlueSky</a>
 </div>
 
 
