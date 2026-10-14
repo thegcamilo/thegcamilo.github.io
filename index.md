@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="assets/prof_pic.jpg">
 
-Hi! My name is Gabriel Lima. I am currently a Doctoral Researcher at the Max Planck Institute for Security and Privacy (MPI-SP), where I work alongside [Yixin Zou](https://yixinzou.github.io/). Before joining MPI-SP, I obtained my BSc and MSc from KAIST, where I worked with [Meeyoung Cha](https://www.mpi-sp.org/cha).
+Hi! My name is Gabriel Lima. I am currently a final-year Doctoral Researcher at the Max Planck Institute for Security and Privacy (MPI-SP), where I work alongside [Yixin Zou](https://yixinzou.github.io/). Before joining MPI-SP, I obtained my BSc and MSc from KAIST, where I worked with [Meeyoung Cha](https://www.mpi-sp.org/cha).
 
 My research pursues my vision where AI design and governance reflect the values, expectations, and opinions of the people who use and are affected by AI systems. I focus on three interconnected directions:
 - Examining the general public's views of AI and their real-world implications, including whether their opinions are aligned with existing regulatory frameworks, such as the European Union's AI Act and copyright law <small>[[CHI 2026a](https://doi.org/10.1145/3772318.3790535), [CHI 2025a](https://dl.acm.org/doi/10.1145/3706598.3713338), [Cambridge 2025](https://doi.org/10.1017/9781009170901.028), [FAccT 2023](https://dl.acm.org/doi/10.1145/3593013.3593992), [EAAMO 2022](https://conference2022.eaamo.org/papers/grgic-hlaca-22.pdf), [CHI 2021](https://doi.org/10.1145/3411764.3445260), [Frontiers 2021a](https://doi.org/10.3389/frobt.2021.756242)]</small>;
