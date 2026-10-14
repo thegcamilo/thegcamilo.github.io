@@ -8,7 +8,19 @@ layout: default
 
 Hi! My name is Gabriel Lima. I am currently a Doctoral Researcher at the Max Planck Institute for Security and Privacy (MPI-SP), where I work alongside [Yixin Zou](https://yixinzou.github.io/). Before joining MPI-SP, I obtained my BSc and MSc from KAIST, where I worked with [Meeyoung Cha](https://www.mpi-sp.org/cha).
 
-I am a human-computer interaction (HCI) researcher interested in responsible, human-centered artificial intelligence (AI). Through my work, I seek to embed the public's perceptions and opinions of consequential AI systems into debates concerning their real-world ethical, social, and legal implications. My overarching objective is to ensure that the development and governance of AI reflect the values, expectations, and opinions of the people who use and are affected by these systems.
+My research pursues my vision where AI design and governance reflect the values, expectations, and opinions of the people who use and are affected by AI systems. I focus on three interconnected directions:
+- Examining the general public's views of AI and their real-world implications, including whether their opinions are aligned with existing regulatory frameworks, such as the European Union's AI Act and copyright law <small>[[CHI 2026a](https://doi.org/10.1145/3772318.3790535), [CHI 2025a](https://dl.acm.org/doi/10.1145/3706598.3713338), [Cambridge 2025](https://doi.org/10.1017/9781009170901.028), [FAccT 2023](https://dl.acm.org/doi/10.1145/3593013.3593992), [EAAMO 2022](https://conference2022.eaamo.org/papers/grgic-hlaca-22.pdf), [CHI 2021](https://doi.org/10.1145/3411764.3445260), [Frontiers 2021a](https://doi.org/10.3389/frobt.2021.756242)]</small>;
+- Experimentally evaluating potential solutions to AI's negative impacts through the eyes of laypeople, such as the proposals to make AI "fair" and "provocative" <small>[[CHI 2025b](https://doi.org/10.1145/3706598.3713536), [CHI 2023](https://doi.org/10.1145/3544548.3580953), [Frontiers 2021b](https://doi.org/10.3389/frobt.2021.719944), [CSCW 2020](https://doi.org/10.1145/3415206)]
+</small>;
+- Critically analyzing dominant perspectives on how to address AI's ethical, social, and legal challenges, including companies' AI safety narratives <small>[[CHI 2026b](https://doi.org/10.1145/3772318.3791632), [CSCW 2025](https://dl.acm.org/doi/10.1145/3710935), [FAccT 2022](https://doi.org/10.1145/3531146.3534628)]</small>.
+
+My research leverages quantitative and qualitative methods to capture and analyze narratives about AI and the public's perceptions and opinions. I am also a strong believer in interdisciplinary research. I have collaborated with scholars from psychology, law, sociology, and other disciplines, always seeking to bring different disciplinary perspectives together. 
+
+You can always reach me via email: firstname.lastname@mpi-sp.org
+
+<!-- <span style="color:red">I am currently on the job market for tenure-track faculty positions!</span> -->
+
+<!-- I am a human-computer interaction (HCI) researcher interested in responsible, human-centered artificial intelligence (AI). Through my work, I seek to embed the public's perceptions and opinions of consequential AI systems into debates concerning their real-world ethical, social, and legal implications. My overarching objective is to ensure that the development and governance of AI reflect the values, expectations, and opinions of the people who use and are affected by these systems.
 
 My work primarily focuses on three interconnected directions:
 - Examining people’s expectations and opinions of high-risk AI systems to inform real-world ethical, social, and legal debates surrounding AI <small>[[CHI 2026a](https://doi.org/10.1145/3772318.3790535), [CHI 2025a](https://dl.acm.org/doi/10.1145/3706598.3713338), [Cambridge 2025](https://doi.org/10.1017/9781009170901.028), [FAccT 2023](https://dl.acm.org/doi/10.1145/3593013.3593992), [EAAMO 2022](https://conference2022.eaamo.org/papers/grgic-hlaca-22.pdf), [CHI 2021](https://doi.org/10.1145/3411764.3445260), [Frontiers 2021a](https://doi.org/10.3389/frobt.2021.756242)]</small>;
@@ -16,9 +28,9 @@ My work primarily focuses on three interconnected directions:
 </small>;
 - Critically analyzing the predominant perspectives on the ethical, social, and legal questions raised by AI, as well as the solutions put forward to address them <small>[[CHI 2026b](https://doi.org/10.1145/3772318.3791632), [CSCW 2025](https://dl.acm.org/doi/10.1145/3710935), [FAccT 2022](https://doi.org/10.1145/3531146.3534628)]</small>.
 
-My research employs quantitative, qualitative, and computational methods to capture and make sense of narratives about AI and people's perceptions and opinions. My approach to research is highly interdisciplinary. I have collaborated with scholars from psychology, law, sociology, communication, and other disciplines, always aiming to bring different disciplinary perspectives together. 
+My research employs quantitative, qualitative, and computational methods to capture and make sense of narratives about AI and people's perceptions and opinions. My approach to research is highly interdisciplinary. I have collaborated with scholars from psychology, law, sociology, communication, and other disciplines, always aiming to bring different disciplinary perspectives together.  -->
 
-You can always reach me via email: firstname.lastname@mpi-sp.org
+<!-- You can always reach me via email: firstname.lastname@mpi-sp.org -->
 
 <!-- Hi! My name is Gabriel Lima. I am currently a Doctoral Researcher at the Max Planck Institute for Security and Privacy (MPI-SP), where I work alongside [Yixin Zou](https://yixinzou.github.io/). Before joining MPI-SP, where I obtained my BS and MS from KAIST, where I worked with [Meeyoung Cha](https://www.mpi-sp.org/cha).
 
